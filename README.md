@@ -16,6 +16,6 @@ This project is a Python-based directory synchronization tool that keeps two dir
   
 ## Installation
 
-1. Clone the repository:
-   git clone <repository-url>
-   cd <repository-directory>
+1. Clone the repository
+   cd DirSync\src\DirSync
+   python DirSync.py <origin> <replica> <timer>
